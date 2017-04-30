@@ -1,6 +1,6 @@
-##Ruby on Rails Tutorial
+## Ruby on Rails Tutorial
 
-#toy-app
+# toy-app
 
 View this application at this [*site*](https://floating-fjord-89448.herokuapp.com/).
 
